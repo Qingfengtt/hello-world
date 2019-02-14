@@ -1,4 +1,6 @@
 # hello-world
-first repository
+# first repository
 
-I've made some commits as per tuto sample.
+# I've made some commits as per tuto sample.
+
+print("hello world")
